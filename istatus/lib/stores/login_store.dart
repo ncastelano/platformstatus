@@ -1,4 +1,6 @@
+import 'package:get_it/get_it.dart';
 import 'package:istatus/repositories/user_repository.dart';
+import 'package:istatus/stores/user_manager_store.dart';
 import 'package:mobx/mobx.dart';
 import 'package:istatus/helpers/extension.dart';
 
@@ -47,8 +49,9 @@ class LoginStore = _LoginStore with _$LoginStore;
 
       try {
       final user = await UserRepository().loginWithEmail(email, password);
-      print(user);
+      GetIt.I<UserManagerStore>().setUser(user);
       } catch (e) {
+
        error = e;
       }
       loading = false;

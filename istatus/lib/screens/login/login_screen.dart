@@ -30,12 +30,15 @@ class LoginScreen extends StatelessWidget {
                 mainAxisSize: MainAxisSize.min,
 
                 children: [
-                  Observer(builder: (_){
-                    return ErrorBox(
-                      message: loginStore.error,
-                    );
+                  Padding(
+                    padding: const EdgeInsets.all(8.0),
+                    child: Observer(builder: (_){
+                      return ErrorBox(
+                        message: loginStore.error,
+                      );
 
-                  }),
+                    }),
+                  ),
                   Text(
                     'Acessar com E-mail:',
                     textAlign: TextAlign.center,

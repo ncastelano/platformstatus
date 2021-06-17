@@ -1,6 +1,6 @@
 class ParseErrors {
   static final Map<int, String> _error = {
-    -1: 'Erro desconhecido',
+    -1: 'Algo deu errado!',
     1: 'Erro Interno do Servidor (InternalServerError)',
     100: 'Falha de conexão com o servidor (ConnectionFailed)',
     101: 'Usuário/senha inválido',

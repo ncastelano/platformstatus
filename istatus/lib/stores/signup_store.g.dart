@@ -166,7 +166,7 @@ mixin _$SignupStore on _SignupStore, Store {
   final _$_signUpAsyncAction = AsyncAction('_SignupStore._signUp');
 
   @override
-  Future<void> _signUp() {
+  Future<dynamic> _signUp() {
     return _$_signUpAsyncAction.run(() => super._signUp());
   }
 

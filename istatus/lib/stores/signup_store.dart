@@ -1,5 +1,7 @@
+import 'package:get_it/get_it.dart';
 import 'package:istatus/models/user.dart';
 import 'package:istatus/repositories/user_repository.dart';
+import 'package:istatus/stores/user_manager_store.dart';
 import 'package:mobx/mobx.dart';
 import 'package:istatus/helpers/extension.dart';
 part 'signup_store.g.dart';
@@ -111,7 +113,7 @@ abstract class _SignupStore with Store {
   String error;
 
   @action
-  Future <void> _signUp() async {
+  Future _signUp() async {
     loading = true;
 
     final user = User(
@@ -124,8 +126,8 @@ abstract class _SignupStore with Store {
 
     try {
      final resultUser = await UserRepository().signUp(user);
-
-    } catch (e) {
+     GetIt.I<UserManagerStore>().setUser(resultUser);
+         } catch (e) {
       error = e;
     }
 

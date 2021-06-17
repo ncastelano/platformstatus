@@ -24,7 +24,7 @@ class ErrorBox extends StatelessWidget {
             size: 40,
           ),
           SizedBox(width: 16,),
-          Expanded(child: Text('Oops! $message. Por favor, tente novamente.',
+          Expanded(child: Text('$message. Tente novamente!',
             style: TextStyle(color: Colors.white,
                 fontSize: 14
             ),

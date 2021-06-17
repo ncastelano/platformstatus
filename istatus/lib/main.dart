@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:get_it/get_it.dart';
 import 'package:istatus/screens/base/base_screen.dart';
 import 'package:istatus/stores/page_store.dart';
+import 'package:istatus/stores/user_manager_store.dart';
 import 'package:parse_server_sdk/parse_server_sdk.dart';
 import 'dart:async';
 
@@ -11,9 +12,10 @@ void main() async {
   setupLocators();
   runApp(MyApp());
 }
-
+/*isso faz ser acessado em qualquer local*/
   void setupLocators(){
    GetIt.I.registerSingleton(PageStore());
+   GetIt.I.registerSingleton(UserManagerStore());
 
   }
 
