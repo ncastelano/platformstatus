@@ -1,6 +1,6 @@
 # istatus
 
-A new Flutter project.
+conectando você
 
 ## Getting Started
 

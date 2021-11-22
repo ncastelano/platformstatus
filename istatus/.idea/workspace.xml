@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f327ae71-28bc-4a3f-b54c-4427e3d033eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/java/istatus/com/istatus/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/app/src/main/kotlin/com/istatus/app/istatus/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/android/settings_aar.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/LOGOpequeno.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/AppDelegate.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ios/Runner/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/blocs/login_blocs.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/carregando.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/data/dummy_user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mensagem_de_error.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/modelos/user.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/modelos/usuário.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/os_tops_semanais.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/top_1_semanal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/top_2_semanal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/top_3_semanal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/top_4_semanal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/rank_semanal/top_5_semanal.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/capa_de_audio_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/capa_de_audio_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/capa_de_audio_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/capa_de_audio_4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/capa_de_audio_5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/perfil_com_audio_mais_ouvido_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/perfil_com_audio_mais_ouvido_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/perfil_com_audio_mais_ouvido_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/perfil_com_audio_mais_ouvido_4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_audio/perfil_com_audio_mais_ouvido_5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/imagem_mais_vista_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/imagem_mais_vista_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/imagem_mais_vista_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/imagem_mais_vista_4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/imagem_mais_vista_5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/perfil_imagem_mais_vista_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/perfil_imagem_mais_vista_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/perfil_imagem_mais_vista_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/perfil_imagem_mais_vista_4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_imagem/perfil_imagem_mais_vista_5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_perfil/perfil_mais_visto_da_semana_1.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_perfil/perfil_mais_visto_da_semana_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_perfil/perfil_mais_visto_da_semana_3.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_perfil/perfil_mais_visto_da_semana_4.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/capa_de_perfil/perfil_mais_visto_da_semana_5.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/activity_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/cards_para_lista.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/cartao_de_visita.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/colorindo_a_tela_de_login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/custom_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/customizacao_cabecalho_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/destination_carousel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/destination_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/downloads.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/favoritos_do_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/hotel_carousel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/hotel_model.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/linha_do_tempo.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/lista_de_pessoas.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/login_de_cadastrado.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/login_de_nao_cadastrado.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/menu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/rank_global_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/secao_pagina.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/tema_gradiente.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/timeline_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/timeline_inicio.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/componentes/titulo_de_pagina.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/destination_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/os_top_diarios.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/top_1_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/top_2_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/top_3_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/top_4_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/top_5_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/rank_diario/topo_da_lista_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/tela_de_login_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/mochila.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_live_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_live_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_livro_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_livro_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_loja_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_loja_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_musica_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_musica_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_pessoa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_pessoa_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_radio_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_radio_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_video_diario.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/rank_video_semana.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_chat.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_configuracao.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_de_login.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_dinheiro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_imagem.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_live.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_livro.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_loja.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_mapa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_musica.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_pessoa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_radio.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/screens/telas_iniciais/tela_video.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/validators/login_validador.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/kotlin/com/example/sliverbac/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sliverbac/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/kotlin/com/example/tela_inicial/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../tela_inicial/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/kotlin/com/example/testandoperfis/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/drawable-v21/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/values-night/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testandoperfis/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/carregando.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/Icones_do_menu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/avatar_card.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/customizacao_cabecalho_drawer.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/opcao_de_pagina.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/titulo_de_pagina.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/mensagem_de_error.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/menu.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/rank_pessoa.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/rank_total.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testes/lib/tela/tela_pessoas.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../xlo_mobx.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/main/kotlin/com/istatus/istatus/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/ios/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ios/Runner/Info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner/Info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/custom_drawer/custom_drawer.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/custom_drawer/custom_drawer_header.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/custom_drawer/page_section.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/custom_drawer/page_tile.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/custom_drawer/time.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/components/error_box.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/helpers/extension.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/models/user.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/repositories/parse_errors.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/repositories/table_keys.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/repositories/user_repository.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/base/base_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/create/create_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/home/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/login/login_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/signup/components/field_title.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/screens/signup/signup_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/login_store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/login_store.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/page_store.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/page_store.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/page_store.g.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../testes/lib/tela/componentes/page_store.g.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/signup_store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/signup_store.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/user_manager_store.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stores/user_manager_store.g.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/web/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[C:\Users\55699\.android\avd\Nexus_5X_API_30.avd]" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1xI3zY2GNUPaBfCdXNDmOCeq6Km" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\55699\Desktop\istatus\android\app" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\55699\Desktop\istatus\lib\screens\capa_de_perfil" />
+      <recent name="C:\Users\55699\Desktop\istatus\lib\screens\telas_iniciais" />
+      <recent name="C:\Users\55699\Desktop\istatus\lib\screens\avatares" />
+      <recent name="C:\Users\55699\Desktop\istatus\assets" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f327ae71-28bc-4a3f-b54c-4427e3d033eb" name="Default Changelist" comment="" />
+      <created>1630029045024</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630029045024</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../../../../src/flutter/packages/flutter/lib/src/material/theme_data.dart</url>
+          <line>389</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/lib/screens/componentes/tema_gradiente.dart</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
